@@ -16,6 +16,7 @@ class RTSPProcessor:
         self.mqtt_port = mqtt_port
         self.mqtt_topic = mqtt_topic
         
+        
         self.processing_running = False
         self.reading_running = False
 
