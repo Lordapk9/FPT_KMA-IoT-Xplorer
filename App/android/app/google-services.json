@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "775196988215",
+    "project_id": "flutternotification-b568e",
+    "storage_bucket": "flutternotification-b568e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775196988215:android:91f1ff3d6256665de600b2",
+        "android_client_info": {
+          "package_name": "com.example.home_iot_device"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnp99uQtYP-rJYSq9Ug106iyh7QqvpwiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
