@@ -44,7 +44,6 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyBOEM4iQRv0iRVOIGO9Ke6PSLi5W_E32GU',
     appId: '1:775196988215:web:8f0044cb21bfa6fce600b2',
     messagingSenderId: '775196988215',
     projectId: 'flutternotification-b568e',
@@ -54,7 +53,6 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBnp99uQtYP-rJYSq9Ug106iyh7QqvpwiY',
     appId: '1:775196988215:android:91f1ff3d6256665de600b2',
     messagingSenderId: '775196988215',
     projectId: 'flutternotification-b568e',
@@ -62,7 +60,6 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAiC2X7SPpGtJ0657GLyeEX1p8zQ_jfPno',
     appId: '1:775196988215:ios:427255c0347dc091e600b2',
     messagingSenderId: '775196988215',
     projectId: 'flutternotification-b568e',
